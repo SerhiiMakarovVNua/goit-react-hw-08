@@ -1,0 +1,21 @@
+.userMenu {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.userText {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.userBtn {
+  width: 127px;
+  margin: 0 auto;
+  align-self: center;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.userBtn:hover {
+  background-color: #414bff;
+}

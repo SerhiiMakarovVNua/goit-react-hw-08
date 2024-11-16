@@ -1,0 +1,18 @@
+.authCont {
+  display: flex;
+  gap: 30px;
+}
+
+.link {
+  color: currentColor;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.link:hover {
+  color: #6060ff;
+}
+
+.active {
+  color: #9090ff;
+}
